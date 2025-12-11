@@ -1,10 +1,33 @@
-```markdown
 # 🚀 Pipelyne  
 ### **A Production-Ready Machine Learning Framework in Rust**
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+---
+
+## ⭐ Overview
+
+**Pipelyne** is a **full-stack machine learning framework built entirely in Rust**, featuring multiple ML algorithms from scratch, a complete data processing pipeline, a professional CLI, model persistence, and interactive demos.
+
+It is designed for:
+- Machine Learning learners  
+- Rust enthusiasts  
+- Developers who want a clean, extensible ML architecture  
+- Portfolio showcase projects  
+
+---
+
+## ✨ Features
+
+### 🔢 **4 Machine Learning Algorithms (From Scratch)**
+- **Linear Regression** (w/ R² score)
+- **K-Means Clustering**
+- **Decision Tree Classifier/Regressor**
+- **Perceptron Neural Network**
+
+### 🔄 **Modular Pipeline System**
 
 ---
 
