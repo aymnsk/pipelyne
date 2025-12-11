@@ -2,7 +2,7 @@
 name = "pipelyne"
 version = "0.1.0"
 edition = "2021"
-authors = "Ayman Shaikh"
+authors = ["Ayman Shaikh"]
 description = "A production-ready machine learning framework in Rust"
 repository = "https://github.com/aymnsk/pipelyne"
 license = "MIT OR Apache-2.0"
