@@ -1,0 +1,7 @@
+# In your repository:
+echo "/target/" > .gitignore
+echo "Cargo.lock" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "*.json" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.txt" >> .gitignore
